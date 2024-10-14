@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bomberos-app/static/css/main.7d0315b8.css",
+    "main.js": "/Bomberos-app/static/js/main.53f1c9d8.js",
+    "static/js/453.41ef1516.chunk.js": "/Bomberos-app/static/js/453.41ef1516.chunk.js",
+    "static/media/honda-silver-logo-E810C6A8A4-seeklogo.com.png": "/Bomberos-app/static/media/honda-silver-logo-E810C6A8A4-seeklogo.com.e179d5cc1e97be5b44eb.png",
+    "static/media/peugeot-new-2021-logo-8E83714E02-seeklogo.com.png": "/Bomberos-app/static/media/peugeot-new-2021-logo-8E83714E02-seeklogo.com.f530512033b1ca139253.png",
+    "static/media/alfa-romeo-logo-BC9622CF7F-seeklogo.com.png": "/Bomberos-app/static/media/alfa-romeo-logo-BC9622CF7F-seeklogo.com.75e9e64dcba378598710.png",
+    "static/media/hyundai-logo-50C0EC8456-seeklogo.com.png": "/Bomberos-app/static/media/hyundai-logo-50C0EC8456-seeklogo.com.06dea04fb376112aeedc.png",
+    "static/media/volkswagen-new-2019-logo-4BCCD0D7F9-seeklogo.com.png": "/Bomberos-app/static/media/volkswagen-new-2019-logo-4BCCD0D7F9-seeklogo.com.bf4af6a21e19a3ee2e76.png",
+    "static/media/bmw-logo-248C3D90E6-seeklogo.com.png": "/Bomberos-app/static/media/bmw-logo-248C3D90E6-seeklogo.com.f89e9e90eed0a7828bb3.png",
+    "static/media/ford-logo-CA98E97A2B-seeklogo.com.png": "/Bomberos-app/static/media/ford-logo-CA98E97A2B-seeklogo.com.c4770aeca35802e1dd69.png",
+    "static/media/citroen-2009-logo-456E9DFB33-seeklogo.com.png": "/Bomberos-app/static/media/citroen-2009-logo-456E9DFB33-seeklogo.com.cc543ff7a1cdbd6100ab.png",
+    "index.html": "/Bomberos-app/index.html",
+    "main.7d0315b8.css.map": "/Bomberos-app/static/css/main.7d0315b8.css.map",
+    "main.53f1c9d8.js.map": "/Bomberos-app/static/js/main.53f1c9d8.js.map",
+    "453.41ef1516.chunk.js.map": "/Bomberos-app/static/js/453.41ef1516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0315b8.css",
+    "static/js/main.53f1c9d8.js"
+  ]
+}
